@@ -83,7 +83,7 @@ cd ../
   - `data/all_xml`: store NCT IDs for all the xml files for all the trials.  
 
 ```bash
-find raw_data/ -name NCT*.xml | sort > data/all_xml
+find raw_data/ -name NCT*.xml | sort > raw_data/all_xml
 ```
 
 
